@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @thedeadbolt
-- 👀 I’m interested in data science, statistics and how to use programming to solve bio. specific problems/ create bio. tools to enhance scientific knowledge.
-- 🌱 I’m currently learning Python and R
+- 👋 Hi, I’m @thedeadbolt, a 3rd year Biochemistry BSc Student.
+- 👀 I’m interested in data science, statistics and how to use programming to solve bio. specific problems/ create bio. tools to enhance scientific knowledge, especially in an evolutionary context.
+- 🌱 I’m currently learning Python and R.
 - 💞️ I’m looking to collaborate with cool people on easy/ intermediate projects that help me get better at Python :D
 - 📫 How to reach me : joaomoutinhobq@gmail.com
 - 😄 Pronouns: he/him

@@ -39,7 +39,6 @@
 </div>
 
 ### ⚙️ GitHub Status:
-<img width=45% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=thedeadbolt&theme=radical&mode=weekly" />
 <img width=30% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=thedeadbolt&show_icons=true&theme=radical&layout=compact" />
  </div>
  

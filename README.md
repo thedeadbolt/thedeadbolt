@@ -2,7 +2,7 @@
 
 ### 👨‍🔬 About Me
 - 🎓 BSc in Biochemistry @ [FCUP & ICBAS](https://www.up.pt/fcup/pt/), MSc student in Bioinformatics and Computational Biology.  
-- 💡 Currently building a chess bot (*thedeadBOT*) and a gene expression visualization tool (*GeneBalloon*).  
+- 💡 Currently refactoring my gene expression visualization tool (*GeneBalloon*), and expanding it to a full suite.  
 - 🌱 Interested in molecular biology, evolution, and computational approaches to life sciences.  
 - 🌍 Fluent in Portuguese and English.  
 

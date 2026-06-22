@@ -4,7 +4,8 @@
 - **BSc in Biochemistry** @ [FCUP & ICBAS](https://www.up.pt/fcup/pt/)
 - **MSc Student** in Bioinformatics and Computational Biology @ [FCUP & ICBAS](https://www.up.pt/fcup/pt/).
 - **Researcher** @ [AGE Research group (CIIMAR)](https://www.ciimar.up.pt/teams/animal-genetics-and-evolution/) 
-- Currently refactoring **GeneBalloon** (gene expression visualization) and developing **TraitForest** (ASR visualization).  
+- Currently refactoring **GeneBalloon** (gene expression visualization) and developing **TraitForest** (ASR visualization).
+- Contributor to the Cladewright repository;  
 - Interested in molecular biology, biochemical processes, evolution, and computational approaches to life sciences.  
 - Fluent in Portuguese and English.  
 

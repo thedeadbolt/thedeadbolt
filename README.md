@@ -1,6 +1,6 @@
 # João Moutinho
 
-BSc in Biochemistry and MSc student in Bioinformatics and Computational Biology at [FCUP & ICBAS](https://www.up.pt/fcup/pt/). Researcher at the [AGE Research group (CIIMAR)](https://www.ciimar.up.pt/teams/animal-genetics-and-evolution/), working on computational approaches to molecular biology, biochemical processes, and evolution. Fluent in Portuguese and English.
+BSc in Biochemistry from [FCUP](https://www.up.pt/fcup/pt/) & [ICBAS](https://www.icbas.up.pt/), and MSc student in Bioinformatics and Computational Biology at [FCUP](https://www.up.pt/fcup/pt/). Researcher at the [AGE Research group (CIIMAR)](https://www.ciimar.up.pt/teams/animal-genetics-and-evolution/), working on computational approaches to molecular biology, biochemical processes, and evolution. Fluent in Portuguese and English.
 
 ## Projects
 
@@ -14,8 +14,6 @@ BSc in Biochemistry and MSc student in Bioinformatics and Computational Biology 
 
 ## Contact
 
-[LinkedIn](https://www.linkedin.com/in/joãomoutinhobq)
-
-ORCID: [0009-0009-5157-7946](https://orcid.org/0009-0009-5157-7946)
-
-CIÊNCIAID: 2A18-FE9C-ECBE
+- [LinkedIn](https://www.linkedin.com/in/joãomoutinhobq)
+- ORCID: [0009-0009-5157-7946](https://orcid.org/0009-0009-5157-7946)
+- CIÊNCIAID: [2A18-FE9C-ECBE](https://www.cienciavitae.pt/portal/2A18-FE9C-ECBE)

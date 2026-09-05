@@ -6,7 +6,7 @@ BSc in Biochemistry from [FCUP](https://www.up.pt/fcup/pt/) & [ICBAS](https://ww
 
 ### Research
 - **GeneBalloon**: originally a simple gene expression visualization tool built with JavaScript, HTML, and CSS. Currently being rebuilt into an end-to-end pipeline, from data retrieval to visualization, using industry-standard tools.
-- **TraitForest**: modular, cloud-ready platform for ancestral state reconstruction (ASR) and comparative phylogenetic statistics. Automates multi-trait workflows (binary, categorical, continuous) using SIMMAP and PGLS, with a React frontend, Django REST API, and Nextflow DSL2 pipeline orchestration.
+- **TraitForest**: Local-first platform for ancestral state reconstruction (ASR) and comparative phylogenetic statistics. Automates multi-trait workflows (binary, multi-state, continuous) using Markov ASR, stochastic character mapping, and PGLS, with a Next.js frontend and API, a Postgres-queued Python worker, and Nextflow DSL2 pipeline orchestration.
 - **StomachEvoGraph**: comparative study of multi-tissue gene co-expression networks across seven vertebrate species, examining how gene communities are maintained, rewired, or lost between species with and without complex gastric systems. Currently being developed into a reusable analysis pipeline.
 
 ### Independent Projects
